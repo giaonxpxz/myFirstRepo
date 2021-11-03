@@ -1,0 +1,12 @@
+/Users/giaonguyenxuan/Desktop/AZIR/myapp/bin/Debug/netcoreapp3.1/myapp.deps.json
+/Users/giaonguyenxuan/Desktop/AZIR/myapp/bin/Debug/netcoreapp3.1/myapp.runtimeconfig.json
+/Users/giaonguyenxuan/Desktop/AZIR/myapp/bin/Debug/netcoreapp3.1/myapp.runtimeconfig.dev.json
+/Users/giaonguyenxuan/Desktop/AZIR/myapp/bin/Debug/netcoreapp3.1/myapp.dll
+/Users/giaonguyenxuan/Desktop/AZIR/myapp/bin/Debug/netcoreapp3.1/myapp.pdb
+/Users/giaonguyenxuan/Desktop/AZIR/myapp/obj/Debug/netcoreapp3.1/myapp.csprojAssemblyReference.cache
+/Users/giaonguyenxuan/Desktop/AZIR/myapp/obj/Debug/netcoreapp3.1/myapp.AssemblyInfoInputs.cache
+/Users/giaonguyenxuan/Desktop/AZIR/myapp/obj/Debug/netcoreapp3.1/myapp.AssemblyInfo.cs
+/Users/giaonguyenxuan/Desktop/AZIR/myapp/obj/Debug/netcoreapp3.1/myapp.csproj.CoreCompileInputs.cache
+/Users/giaonguyenxuan/Desktop/AZIR/myapp/obj/Debug/netcoreapp3.1/myapp.dll
+/Users/giaonguyenxuan/Desktop/AZIR/myapp/obj/Debug/netcoreapp3.1/myapp.pdb
+/Users/giaonguyenxuan/Desktop/AZIR/myapp/obj/Debug/netcoreapp3.1/myapp.genruntimeconfig.cache

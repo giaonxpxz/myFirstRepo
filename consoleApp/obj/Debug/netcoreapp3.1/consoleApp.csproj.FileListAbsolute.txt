@@ -1,0 +1,12 @@
+/Users/giaonguyenxuan/Desktop/AZIR/consoleApp/bin/Debug/netcoreapp3.1/consoleApp.deps.json
+/Users/giaonguyenxuan/Desktop/AZIR/consoleApp/bin/Debug/netcoreapp3.1/consoleApp.runtimeconfig.json
+/Users/giaonguyenxuan/Desktop/AZIR/consoleApp/bin/Debug/netcoreapp3.1/consoleApp.runtimeconfig.dev.json
+/Users/giaonguyenxuan/Desktop/AZIR/consoleApp/bin/Debug/netcoreapp3.1/consoleApp.dll
+/Users/giaonguyenxuan/Desktop/AZIR/consoleApp/bin/Debug/netcoreapp3.1/consoleApp.pdb
+/Users/giaonguyenxuan/Desktop/AZIR/consoleApp/obj/Debug/netcoreapp3.1/consoleApp.csprojAssemblyReference.cache
+/Users/giaonguyenxuan/Desktop/AZIR/consoleApp/obj/Debug/netcoreapp3.1/consoleApp.AssemblyInfoInputs.cache
+/Users/giaonguyenxuan/Desktop/AZIR/consoleApp/obj/Debug/netcoreapp3.1/consoleApp.AssemblyInfo.cs
+/Users/giaonguyenxuan/Desktop/AZIR/consoleApp/obj/Debug/netcoreapp3.1/consoleApp.csproj.CoreCompileInputs.cache
+/Users/giaonguyenxuan/Desktop/AZIR/consoleApp/obj/Debug/netcoreapp3.1/consoleApp.dll
+/Users/giaonguyenxuan/Desktop/AZIR/consoleApp/obj/Debug/netcoreapp3.1/consoleApp.pdb
+/Users/giaonguyenxuan/Desktop/AZIR/consoleApp/obj/Debug/netcoreapp3.1/consoleApp.genruntimeconfig.cache
